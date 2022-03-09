@@ -3,21 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alashtal" alt="alashtal" /></a> </p>
 
-- 🔭 I’m currently working on **learning something new everyday**
+- 🔭 I’m currently working on **learning something new everyday** :snake:
 
-- 🌱 I’m currently learning **cloud-pentesting**
+- 🌱 I’m currently learning **cloud-pentesting** :cloud:
 
-- 👯 I’m looking to collaborate on **ethical hackers**
+- 👯 I’m looking to collaborate on **ethical hackers** :busts_in_silhouette:
 
-- 💬 Ask me about **Pentesting or IT**
-
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/moeashtal/)
+- 💬 Ask me about **Pentesting or IT in general** :fire:
 
 - 📄 Know about my experiences [Checkout my resume website](https://alashtal.github.io/M-O-E_Portfolio/)
 
-- ⚡ Fun fact **I can speak Klingon and I love imitations.**
+- ⚡ Fun fact **I can speak Klingon and I love imitations ** :godmode:
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">📫 Connect with me: </h3> :telephone:
 <p align="left">
 <a href="https://linkedin.com/in/moeashtal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moeashtal" height="30" width="40" /></a>
 </p>
