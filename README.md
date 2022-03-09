@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **Pentesting or IT in general** :fire:
 
-- 📄 Know about my experiences [Checkout my resume website](https://alashtal.github.io/M-O-E_Portfolio/)
+- 📄 Know about my experiences **[Checkout my resume website]**(https://alashtal.github.io/M-O-E_Portfolio/)
 
-- ⚡ Fun fact **I can speak Klingon and I love imitations ** :godmode:
+- ⚡ Fun fact **I can speak Klingon and I love imitations** :godmode:
 
-<h3 align="left">📫 Connect with me: </h3> :telephone:
+<h3 align="left">:telephone: Connect with me: </h3> 
 <p align="left">
 <a href="https://linkedin.com/in/moeashtal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moeashtal" height="30" width="40" /></a>
 </p>
