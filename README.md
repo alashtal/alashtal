@@ -1,5 +1,5 @@
-<h1 align="center">Heyo 👋, I'm Moe</h1>
-<h3 align="center">Passionate Ethical Hacker | Developer</h3>
+<h1 align="center">Heyo 👋, I'm Moe :palm_tree: </h1>
+<h3 align="center">:cactus: Passionate Ethical Hacker | Developer :cactus:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alashtal" alt="alashtal" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Pentesting or IT in general** :fire:
 
-- 📄 Know about my experiences **[Checkout my resume website]**(https://alashtal.github.io/M-O-E_Portfolio/)
+- 📄 Know about my experiences [**Checkout my resume website**](https://alashtal.github.io/M-O-E_Portfolio/) :high_brightness:
 
 - ⚡ Fun fact **I can speak Klingon and I love imitations** :godmode:
 
